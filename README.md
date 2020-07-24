@@ -1,2 +1,2 @@
 # VMAUTODEPLOY
- Powershell script to deply vms in vmware vcenter
+ Powershell script to deploy vms in vmware vcenter

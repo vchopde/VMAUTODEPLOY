@@ -1,0 +1,2 @@
+VMName,Parentvm,Datastore,Host,Networkadapter,IP,Subnet,Gateway,DNS,Domain,PortGroups
+UB02,TESTVM2,esxi_DS2,192.168.4.15,EnhancedVmxnet,192.168.4.114,255.255.255.0,192.168.4.1,192.168.4.4,example.com,API_DATA
